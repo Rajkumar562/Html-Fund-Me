@@ -1,0 +1,27 @@
+button {
+    font-size: 50px;
+    border-radius: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(22, 156, 209);
+    color: white;
+}
+button:hover {
+    background-color: darkblue;
+    box-shadow: 5px 5px grey;
+    cursor: pointer;
+}
+body {
+    background-color: whitesmoke;
+}
+#ethAmount {
+    border-radius: 20px;
+    font-size: 30px;
+}
+label {
+    margin-top: 60px;
+    font-size: 40px;
+    padding: 20px;
+}
